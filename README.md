@@ -5,7 +5,7 @@ It is assumed that the user has a basic understanding of quantum computing, so t
 
 To be able to run the examples in this repository, one has to have Python and Jupyter Notebook installed (for example via the [Anaconda Distribution](https://www.anaconda.com/)).
 
-The following Python packages are also required to be installed (gobally or inside a virtual environment):
+The following Python packages are also required to be installed (globally or inside a virtual environment):
 
 - qiskit
 - qiskit_aer
